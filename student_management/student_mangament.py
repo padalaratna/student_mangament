@@ -20,7 +20,7 @@ class Student:
 
 # Add a new student
 def add_student(list_students):
-    id = int(input("Enter your ID: \n"))
+    id = int(input("Enter your id: \n"))
     name = input("Enter your name: \n")
     age = int(input("Enter your age: \n"))
     grade = input("Enter your grade: \n")
