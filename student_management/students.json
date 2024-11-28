@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "ss",
+        "age": 12,
+        "grade": "1",
+        "subjects": [
+            "dfd",
+            "sfd"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "ww",
+        "age": 12,
+        "grade": "1",
+        "subjects": [
+            "sefsdf"
+        ]
+    }
+]
